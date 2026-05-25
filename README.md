@@ -1,5 +1,3 @@
-# Machine-Learning-Deep-Learning-and-AI
-
 # Music Genre Classification
 
 Multi-class supervised classification of songs into 6 musical genres using ensemble tree-based models.  
